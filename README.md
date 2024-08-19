@@ -1,5 +1,5 @@
 <!-- Replace `profile-picture.jpg` with the link to your profile picture -->
-<img align="left" src="mirlodro.png" width="150" />
+<img align="left" src="LodroMir.png" width="150" />
 
 ### Hello! I'm Mir Lodro 👋
 
