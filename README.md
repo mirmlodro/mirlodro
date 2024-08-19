@@ -4,7 +4,7 @@
 ### Hello! I'm Mir Lodro 👋
 
 I am a Senior Research Associate in RF Cyber Security at the University of Bristol. Currently, I am working as part of the EPSRC-funded project Secure Wireless Agile Networks (SWAN), where I am developing a testbed for collaborative spectrum sensing for dynamic spectrum sharing.
-
+I enjoy working with software-defined radios using the GNU radio signal processing toolkit.
 My academic background includes:
 - 🎓 **PhD in Electrical and Electronic Engineering** from the University of Nottingham (2021)
 - 🎓 **MRes in Electrical and Electronic Engineering** from the University of Nottingham (2015)
