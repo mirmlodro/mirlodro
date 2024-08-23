@@ -13,14 +13,17 @@ My academic background includes:
 - 🎓 **MRes in Electrical and Electronic Engineering** from the University of Nottingham (2015)
 
 My postdoctoral research experience includes:
-- 🧑‍🔬 **Postdoctoral Research** in RF and Communication Engineering at the University of Nottingham (2021-2022)
-- 🧑‍🔬 **Postdoctoral Research** in Signal Processing for 5G and Beyond Networks at Loughborough University (2022)
+- 🧑‍🔬 **Research Fellow** in RF and Communication Engineering at the University of Nottingham (2021-2022)
+- 🧑‍🔬 **Research Associate** in Signal Processing for 5G and Beyond Networks at Loughborough University (2022)
 
 I am passionate about exploring the intersections of RF communication, radio propagation, and signal processing.
 ### Skills & Technologies
 - **Languages**: Python, C++, MATLAB
 - **Tools**: GNU Radio, USRP, RFSoC, PlutoSDR, Wireshark
-- **Frameworks**: TensorFlow, Keras
+- **Frameworks**: TensorFlow, Keras, PYNQ
+- **RF Hardware**: RF Channel Emulator, Anechoic Chamber, Reverberation Chamber, Shielding Boxes, CMX500, EVK06002 mmWave kit
+- **Software Defined Radios**: Ettus Research X310 USRP, B210 USRP, NI USRP-2920, NI USRP 2943R, N321 USRP, E310/E312 USRPs, AMD RFSoC 4x2, Adalm-PlutoSDR
+- **National Instrument Hardware**: NI PXIe-1085, NP PXIe-8880, NI PXIe-6674T timing and synchronisation module
 
 
 
